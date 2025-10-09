@@ -4,8 +4,7 @@ A full-stack web application for medical image processing that simulates differe
 
 ## 🔗 Live Demo
 
-- **Frontend**: https://YASSINE-ZENNED.github.io/Surgical-Planning-Simulation/
-- **Backend API**: https://zenned-ai-tech-test.hf.space
+ **Backend API**: https://zenned-ai-tech-test.hf.space
 
 ## 📋 Features
 
