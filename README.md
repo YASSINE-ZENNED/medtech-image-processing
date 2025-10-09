@@ -5,7 +5,7 @@ A full-stack web application for medical image processing that simulates differe
 ## 🔗 Live Demo
 
  **Backend API**: https://zenned-ai-tech-test.hf.space
-
+ **Live Application (GitHub Pages)**: https://YASSINE-ZENNED.github.io/medtech-image-processing/
 ## 📋 Features
 
 ### 1. Upload Image
