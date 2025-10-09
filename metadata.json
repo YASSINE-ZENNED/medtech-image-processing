@@ -1,0 +1,5 @@
+{
+  "name": "Surgical Planning Simulation",
+  "description": "An application to upload a 2D medical image and simulate different imaging phases (Arterial and Venous) by applying server-side processing.",
+  "requestFramePermissions": []
+}
